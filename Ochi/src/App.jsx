@@ -4,7 +4,7 @@ import Navbar from './components/Navbar'
 import Landingpage from './components/Landingpage'
 import Marquee from './components/Marquee'
 import Greencard from './components/Greencard'
-import Object from './components/Object'
+import Object from './components/Eye'
 
 function App() {
   return (
